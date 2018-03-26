@@ -21,11 +21,13 @@ The lesson will have 3 stages
 2. config vRops to do basic stuff with a vCenter and some VMs  
 3. Go to an envionrment that has more things so you can see what else vRops can do  
 
-For it to be "from zero to useful" we must:  
-
-Start with just the OVA and show how it's deployed  
-Have an appliance already deployed so we don't lose time  
-Log into the appliance for the first time, has to be totally unconfigured  
-
 Do 1 and 2 in Ariel's homelab, which is a vRops "virgin"  
 Move to Thom's homelab for 3  
+
+For it to be "from zero to useful" **we must**:  
+
+- Start with just the OVA and show how it's deployed  
+- Have an appliance already deployed so we don't lose time  
+- Log into the appliance for the first time, has to be totally unconfigured  
+
+
